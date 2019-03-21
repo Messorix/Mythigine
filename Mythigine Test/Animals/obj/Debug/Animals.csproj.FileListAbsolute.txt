@@ -26,3 +26,12 @@ E:\Projects\Visual Studio\Mythigine Test\Animals\obj\Debug\Animals.csproj.CopyCo
 E:\Projects\Visual Studio\Mythigine Test\Animals\obj\Debug\TestOutput.exe
 E:\Projects\Visual Studio\Mythigine Test\Animals\obj\Debug\TestOutput.pdb
 E:\Projects\Visual Studio\Mythigine Test\Animals\obj\Debug\Animals.csprojAssemblyReference.cache
+E:\Projects\Visual Studio\Mythigine\Mythigine Test\Animals\bin\Debug\TestOutput.exe.config
+E:\Projects\Visual Studio\Mythigine\Mythigine Test\Animals\bin\Debug\TestOutput.exe
+E:\Projects\Visual Studio\Mythigine\Mythigine Test\Animals\bin\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine\Mythigine Test\Animals\bin\Debug\Mythigine.pdb
+E:\Projects\Visual Studio\Mythigine\Mythigine Test\Animals\obj\Debug\Animals.csprojAssemblyReference.cache
+E:\Projects\Visual Studio\Mythigine\Mythigine Test\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\Mythigine\Mythigine Test\Animals\obj\Debug\Animals.csproj.CopyComplete
+E:\Projects\Visual Studio\Mythigine\Mythigine Test\Animals\obj\Debug\TestOutput.exe
+E:\Projects\Visual Studio\Mythigine\Mythigine Test\Animals\obj\Debug\TestOutput.pdb
