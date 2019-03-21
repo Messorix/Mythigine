@@ -1,0 +1,46 @@
+E:\Ik en Werk\Projects\Mythigine\TestOutput\bin\Debug\TestOutput.exe.config
+E:\Ik en Werk\Projects\Mythigine\TestOutput\bin\Debug\TestOutput.exe
+E:\Ik en Werk\Projects\Mythigine\TestOutput\bin\Debug\TestOutput.pdb
+E:\Ik en Werk\Projects\Mythigine\TestOutput\bin\Debug\Mythigine.dll
+E:\Ik en Werk\Projects\Mythigine\TestOutput\bin\Debug\Mythigine.pdb
+E:\Ik en Werk\Projects\Mythigine\TestOutput\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+E:\Ik en Werk\Projects\Mythigine\TestOutput\obj\Debug\TestOutput.exe
+E:\Ik en Werk\Projects\Mythigine\TestOutput\obj\Debug\TestOutput.pdb
+E:\Ik en Werk\Projects\Mythigine\Flowers\bin\Debug\TestOutput.exe.config
+E:\Ik en Werk\Projects\Mythigine\Flowers\obj\Debug\TestOutput.exe
+E:\Ik en Werk\Projects\Mythigine\Flowers\obj\Debug\TestOutput.pdb
+E:\Ik en Werk\Projects\Mythigine\Flowers\bin\Debug\TestOutput.exe
+E:\Ik en Werk\Projects\Mythigine\Flowers\bin\Debug\TestOutput.pdb
+E:\Ik en Werk\Projects\Mythigine\Flowers\bin\Debug\Mythigine.dll
+E:\Ik en Werk\Projects\Mythigine\Flowers\bin\Debug\Mythigine.pdb
+E:\Ik en Werk\Projects\Mythigine\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+D:\Mythigine\Flowers\bin\Debug\TestOutput.exe.config
+D:\Mythigine\Flowers\bin\Debug\TestOutput.exe
+D:\Mythigine\Flowers\bin\Debug\TestOutput.pdb
+D:\Mythigine\Flowers\bin\Debug\Mythigine.dll
+D:\Mythigine\Flowers\bin\Debug\Mythigine.pdb
+D:\Mythigine\Flowers\obj\Debug\Flowers.csprojAssemblyReference.cache
+D:\Mythigine\Flowers\obj\Debug\Flowers.csproj.CoreCompileInputs.cache
+D:\Mythigine\Flowers\obj\Debug\Flowers.csproj.CopyComplete
+D:\Mythigine\Flowers\obj\Debug\TestOutput.exe
+D:\Mythigine\Flowers\obj\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine\Flowers\obj\Debug\Flowers.csprojAssemblyReference.cache
+E:\Projects\Visual Studio\Mythigine\Flowers\obj\Debug\Flowers.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\Mythigine\Flowers\obj\Debug\TestOutput.exe
+E:\Projects\Visual Studio\Mythigine\Flowers\obj\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine\Flowers\bin\Debug\TestOutput.exe.config
+E:\Projects\Visual Studio\Mythigine\Flowers\bin\Debug\TestOutput.exe
+E:\Projects\Visual Studio\Mythigine\Flowers\bin\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine\Flowers\bin\Debug\Mythigine.dll
+E:\Projects\Visual Studio\Mythigine\Flowers\bin\Debug\Mythigine.pdb
+E:\Projects\Visual Studio\Mythigine\Flowers\obj\Debug\Flowers.csproj.CopyComplete
+E:\Projects\Visual Studio\Mythigine Test\Flowers\bin\Debug\TestOutput.exe.config
+E:\Projects\Visual Studio\Mythigine Test\Flowers\bin\Debug\TestOutput.exe
+E:\Projects\Visual Studio\Mythigine Test\Flowers\bin\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine Test\Flowers\bin\Debug\Mythigine.dll
+E:\Projects\Visual Studio\Mythigine Test\Flowers\bin\Debug\Mythigine.pdb
+E:\Projects\Visual Studio\Mythigine Test\Flowers\obj\Debug\Flowers.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\Mythigine Test\Flowers\obj\Debug\Flowers.csproj.CopyComplete
+E:\Projects\Visual Studio\Mythigine Test\Flowers\obj\Debug\TestOutput.exe
+E:\Projects\Visual Studio\Mythigine Test\Flowers\obj\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine Test\Flowers\obj\Debug\Flowers.csprojAssemblyReference.cache

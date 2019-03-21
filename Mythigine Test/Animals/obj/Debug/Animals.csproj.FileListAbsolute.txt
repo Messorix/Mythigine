@@ -1,0 +1,28 @@
+E:\Ik en Werk\Projects\Mythigine\Animals\bin\Debug\TestOutput.exe.config
+E:\Ik en Werk\Projects\Mythigine\Animals\bin\Debug\TestOutput.exe
+E:\Ik en Werk\Projects\Mythigine\Animals\bin\Debug\TestOutput.pdb
+E:\Ik en Werk\Projects\Mythigine\Animals\bin\Debug\Mythigine.dll
+E:\Ik en Werk\Projects\Mythigine\Animals\bin\Debug\Mythigine.pdb
+E:\Ik en Werk\Projects\Mythigine\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+E:\Ik en Werk\Projects\Mythigine\Animals\obj\Debug\TestOutput.exe
+E:\Ik en Werk\Projects\Mythigine\Animals\obj\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine\Animals\obj\Debug\Animals.csprojAssemblyReference.cache
+E:\Projects\Visual Studio\Mythigine\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\Mythigine\Animals\obj\Debug\TestOutput.exe
+E:\Projects\Visual Studio\Mythigine\Animals\obj\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine\Animals\bin\Debug\TestOutput.exe.config
+E:\Projects\Visual Studio\Mythigine\Animals\bin\Debug\TestOutput.exe
+E:\Projects\Visual Studio\Mythigine\Animals\bin\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine\Animals\bin\Debug\Mythigine.dll
+E:\Projects\Visual Studio\Mythigine\Animals\bin\Debug\Mythigine.pdb
+E:\Projects\Visual Studio\Mythigine\Animals\obj\Debug\Animals.csproj.CopyComplete
+E:\Projects\Visual Studio\Mythigine Test\Animals\bin\Debug\TestOutput.exe.config
+E:\Projects\Visual Studio\Mythigine Test\Animals\bin\Debug\TestOutput.exe
+E:\Projects\Visual Studio\Mythigine Test\Animals\bin\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine Test\Animals\bin\Debug\Mythigine.dll
+E:\Projects\Visual Studio\Mythigine Test\Animals\bin\Debug\Mythigine.pdb
+E:\Projects\Visual Studio\Mythigine Test\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\Mythigine Test\Animals\obj\Debug\Animals.csproj.CopyComplete
+E:\Projects\Visual Studio\Mythigine Test\Animals\obj\Debug\TestOutput.exe
+E:\Projects\Visual Studio\Mythigine Test\Animals\obj\Debug\TestOutput.pdb
+E:\Projects\Visual Studio\Mythigine Test\Animals\obj\Debug\Animals.csprojAssemblyReference.cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mythigine", "Mythigine.csproj", "{93E8B29D-9114-45B3-A2E2-084DDA737A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "..\..\Mythigine Test\Animals\Animals.csproj", "{6E008493-0ED9-44E7-B932-7B4CA1B46476}"
+	ProjectSection(ProjectDependencies) = postProject
+		{93E8B29D-9114-45B3-A2E2-084DDA737A78} = {93E8B29D-9114-45B3-A2E2-084DDA737A78}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E8B29D-9114-45B3-A2E2-084DDA737A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E8B29D-9114-45B3-A2E2-084DDA737A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E8B29D-9114-45B3-A2E2-084DDA737A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E8B29D-9114-45B3-A2E2-084DDA737A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E008493-0ED9-44E7-B932-7B4CA1B46476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E008493-0ED9-44E7-B932-7B4CA1B46476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E008493-0ED9-44E7-B932-7B4CA1B46476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E008493-0ED9-44E7-B932-7B4CA1B46476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68DDC8F9-7E9B-40C7-A571-0D60555F05BE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+E:\Ik en Werk\Projects\Mythigine\TestOutput\bin\Debug\TestOutput.exe.config
+E:\Ik en Werk\Projects\Mythigine\TestOutput\bin\Debug\TestOutput.exe
+E:\Ik en Werk\Projects\Mythigine\TestOutput\bin\Debug\TestOutput.pdb
+E:\Ik en Werk\Projects\Mythigine\TestOutput\bin\Debug\Mythigine.dll
+E:\Ik en Werk\Projects\Mythigine\TestOutput\bin\Debug\Mythigine.pdb
+E:\Ik en Werk\Projects\Mythigine\TestOutput\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+E:\Ik en Werk\Projects\Mythigine\TestOutput\obj\Debug\TestOutput.exe
+E:\Ik en Werk\Projects\Mythigine\TestOutput\obj\Debug\TestOutput.pdb
